@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 
 
-
 body{
 
     background-image: url("./assets/bg.png");
@@ -13,14 +12,7 @@ body{
    
 }
 
-/* div.shadow {
-    position:absolute;
-    max-width:auto;
-    max-height:100%;
-    top:65%;
-    left:50%;
-    overflow:visible;
-} */
+
 .image {
 
     display: block;
@@ -56,16 +48,7 @@ body{
 
    }
 
-/* .image{
 
-    margin-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    left: 220px;
-    height: 800;
-
-} */
 
 .page_not_found{
     color: white;
